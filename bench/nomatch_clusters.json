@@ -1,0 +1,237 @@
+[
+  {
+    "cluster": 0,
+    "size": 1,
+    "keywords": [
+      "not",
+      "working",
+      "internet",
+      "4g"
+    ],
+    "representative": "4g internet not working",
+    "topics": {
+      "Connectivity": 1
+    },
+    "queries": [
+      "4g internet not working"
+    ]
+  },
+  {
+    "cluster": 1,
+    "size": 1,
+    "keywords": [
+      "hanging",
+      "keeps",
+      "device",
+      "up"
+    ],
+    "representative": "device keeps hanging up",
+    "topics": {
+      "Performance": 1
+    },
+    "queries": [
+      "device keeps hanging up"
+    ]
+  },
+  {
+    "cluster": 2,
+    "size": 1,
+    "keywords": [
+      "app",
+      "stopped",
+      "install",
+      "properly"
+    ],
+    "representative": "swiping to go home stopped working properly after an app install",
+    "topics": {
+      "Performance": 1
+    },
+    "queries": [
+      "swiping to go home stopped working properly after an app install"
+    ]
+  },
+  {
+    "cluster": 3,
+    "size": 1,
+    "keywords": [
+      "fell",
+      "t",
+      "pool",
+      "won"
+    ],
+    "representative": "phone fell in the pool and won't turn on",
+    "topics": {
+      "Other": 1
+    },
+    "queries": [
+      "phone fell in the pool and won't turn on"
+    ]
+  },
+  {
+    "cluster": 4,
+    "size": 1,
+    "keywords": [
+      "won",
+      "monitor",
+      "samsung",
+      "t"
+    ],
+    "representative": "samsung dex won't connect to my monitor",
+    "topics": {
+      "Other": 1
+    },
+    "queries": [
+      "samsung dex won't connect to my monitor"
+    ]
+  },
+  {
+    "cluster": 5,
+    "size": 1,
+    "keywords": [
+      "transfer",
+      "do",
+      "how",
+      "chats"
+    ],
+    "representative": "how do i transfer whatsapp chats to an phone",
+    "topics": {
+      "Performance": 1
+    },
+    "queries": [
+      "how do i transfer whatsapp chats to an phone"
+    ]
+  },
+  {
+    "cluster": 6,
+    "size": 1,
+    "keywords": [
+      "failed",
+      "activation",
+      "esim"
+    ],
+    "representative": "esim activation failed",
+    "topics": {
+      "Other": 1
+    },
+    "queries": [
+      "esim activation failed"
+    ]
+  },
+  {
+    "cluster": 7,
+    "size": 1,
+    "keywords": [
+      "unlock",
+      "how",
+      "bootloader"
+    ],
+    "representative": "how to unlock the bootloader",
+    "topics": {
+      "Other": 1
+    },
+    "queries": [
+      "how to unlock the bootloader"
+    ]
+  },
+  {
+    "cluster": 8,
+    "size": 1,
+    "keywords": [
+      "declined",
+      "card",
+      "wallet",
+      "samsung"
+    ],
+    "representative": "card declined in samsung wallet",
+    "topics": {
+      "Other": 1
+    },
+    "queries": [
+      "card declined in samsung wallet"
+    ]
+  },
+  {
+    "cluster": 9,
+    "size": 1,
+    "keywords": [
+      "s",
+      "screen",
+      "not",
+      "writing"
+    ],
+    "representative": "s pen not writing on the screen",
+    "topics": {
+      "Display": 1
+    },
+    "queries": [
+      "s pen not writing on the screen"
+    ]
+  },
+  {
+    "cluster": 10,
+    "size": 1,
+    "keywords": [
+      "cracked",
+      "much",
+      "screen",
+      "how"
+    ],
+    "representative": "my screen cracked after I dropped it how much is the repair",
+    "topics": {
+      "Display": 1
+    },
+    "queries": [
+      "my screen cracked after I dropped it how much is the repair"
+    ]
+  },
+  {
+    "cluster": 11,
+    "size": 1,
+    "keywords": [
+      "watch",
+      "won",
+      "sync",
+      "count"
+    ],
+    "representative": "My Galaxy Watch won't sync my step count with the phone",
+    "topics": {
+      "Other": 1
+    },
+    "queries": [
+      "My Galaxy Watch won't sync my step count with the phone"
+    ]
+  },
+  {
+    "cluster": 12,
+    "size": 1,
+    "keywords": [
+      "things",
+      "own",
+      "tapping"
+    ],
+    "representative": "phone is tapping things on its own",
+    "topics": {
+      "Performance": 1
+    },
+    "queries": [
+      "phone is tapping things on its own"
+    ]
+  },
+  {
+    "cluster": 13,
+    "size": 1,
+    "keywords": [
+      "can",
+      "sign",
+      "samsung",
+      "t"
+    ],
+    "representative": "can't sign in to my samsung accounts",
+    "topics": {
+      "Other": 1
+    },
+    "queries": [
+      "can't sign in to my samsung accounts"
+    ]
+  }
+]
